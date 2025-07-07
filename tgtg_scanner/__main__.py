@@ -20,7 +20,7 @@ def send_telegram(message: str):
         print(f"Fehler beim Senden der Telegram-Nachricht: {e}")
 
 # TGTG-Konfiguration
-EMAIL = os.getenv("julian.dimitrov08@gmail.com")
+EMAIL = os.getenv("yuliyan.dimitrov08@icloud.com")
 PASSWORD = os.getenv("Yuliyan08")
 COUNTRY_CODE = os.getenv("49", "49")
 
