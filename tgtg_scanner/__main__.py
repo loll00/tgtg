@@ -55,3 +55,4 @@ if __name__ == "__main__":
     while True:
         check_items()
         time.sleep(300)  # alle 5 Minuten prüfen
+send_telegram("✅ Testnachricht: TGTG-Bot läuft!")
